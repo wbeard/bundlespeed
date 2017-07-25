@@ -1,0 +1,14 @@
+{
+  "name": "bundlespeed",
+  "version": "1.0.0",
+  "description": "Guard against slow build times.",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "bundlespeed": "bin/bundlespeed.js"
+  },
+  "dependencies": {
+    "commander": "^2.11.0",
+    "prettycli": "^1.4.0"
+  }
+}
